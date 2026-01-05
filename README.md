@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>Overview of the GLACIA framework. The model jointly performs glacial lake segmentation and instance-aware positional reasoning using a multimodal large language model.</em>
+  <em>Overview of the GLACIA framework</em>
 </p>
 
 This repository contains the **testing code** for **GLACIA**, which introduces a novel framework that integrates large language models with segmentation capabilities to produce both accurate glacial lake segmentation masks and corresponding spatial reasoning outputs. 
