@@ -83,7 +83,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{glacia2025,
   title={GLACIA: Instance--Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model},
-  author={Kaushik, Saurabh and others},
+  author={Maurya Lalit, Kaushik Saurabh and Tellman Beth},
   Venue= GeoCV@WACV2026(https://arxiv.org/abs/2512.09251)},
   year={2026}
 }
