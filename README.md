@@ -1,9 +1,21 @@
 
-# GLACIA: Instance–Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model
+## 📄 Paper
+
+**GLACIA: Instance–Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model**  
+📌 *Accepted at GeoCV @ WACV 2026*
+
+🔗 **Read the full article:** https://arxiv.org/abs/2512.09251
+
+
+<p align="center">
+  <img src="assets/main.jpg" width="90%">
+</p>
+
+<p align="center">
+  <em>Overview of the GLACIA framework. The model jointly performs glacial lake segmentation and instance-aware positional reasoning using a multimodal large language model.</em>
+</p>
 
 This repository contains the **testing code** for **GLACIA**, which introduces a novel framework that integrates large language models with segmentation capabilities to produce both accurate glacial lake segmentation masks and corresponding spatial reasoning outputs. 
-
-
 
 > 🚧 **Note**: The details of training instruction and full documentation will be made available soon. Please stay tuned.
 
@@ -62,3 +74,17 @@ python infer.py \
 
 ## Acknowledgements
 This codebase is heavily borrowed from [PRS-Med](https://github.com/huyquoctrinh/PRS-Med)
+
+
+## 📚 Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{glacia2025,
+  title={GLACIA: Instance--Aware Positional Reasoning for Glacial Lake Segmentation via Multimodal Large Language Model},
+  author={Kaushik, Saurabh and others},
+  Venue= GeoCV@WACV2026(https://arxiv.org/abs/2512.09251)},
+  year={2026}
+}
+
